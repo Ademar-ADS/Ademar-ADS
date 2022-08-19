@@ -3,6 +3,8 @@
 - 🌱 Tenho objetivo ganhar Dinheiro e fazer da programação minha forma de trabalho e renda fimanceira...
 - 💞️ Estou procurando colaborar em programação e desenvolvimento...
 - 📫 Chegar até a mim por email , imberttiademar5@outlook.com...
+- Sou Brasileiro. País (Brasil) 
+- E Gostaria que o programa Github já funcionasse em minha língua o protuguês ( Brasil ) , Sempre traduzindo o Inglês e todas as línguas 
 
 <!---
 Ademar-ADS/Ademar-ADS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ E traduzir textos em português em meus sistemas e programas
 Para facilitar meu aprendizado e minha leitura.
 
 Instalar extensão python ...
+
+
